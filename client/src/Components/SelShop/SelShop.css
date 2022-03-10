@@ -1,0 +1,23 @@
+.selItemIs{
+    display: flex;
+    justify-content:center;
+    column-gap: 20px;
+    flex-grow: 1;
+}
+.selShopParent{
+    width: 200px;
+    height: 100px;
+}
+.selShopName{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(31, 31, 59);
+}
+.selShopAdd{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    /* color: #253333; */
+    color: rgb(99, 98, 98);
+}

@@ -1,0 +1,454 @@
+{
+  "posts": [
+    {
+      "id":"sp01",
+      "shopName": "quick fix",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Rishikesh",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.5,
+      "onlinePay": 1,
+      "discount": 20,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp02",
+      "shopName": "rapid fix",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Raiwala",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.0,
+      "onlinePay": 1,
+      "discount": 10,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp03",
+      "shopName": "24/7 service",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Ambla",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.2,
+      "onlinePay": 0,
+      "discount": 30,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp04",
+      "shopName": "all solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Rishikesh",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 3.8,
+      "onlinePay": 0,
+      "discount": 15,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp05",
+      "shopName": "quick fix",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Raiwala",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.7,
+      "onlinePay": 1,
+      "discount": 20,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp06",
+      "shopName": "quick fix",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Rishikesh",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.3,
+      "onlinePay": 0,
+      "discount": 35,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp07",
+      "shopName": "quick fix",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Raiwala",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.4,
+      "onlinePay": 1,
+      "discount": 20,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp08",
+      "shopName": "quick fix",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Raiwala",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 3.5,
+      "onlinePay": 0,
+      "discount": 40,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp09",
+      "shopName": "quick fix",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Ambla",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.5,
+      "onlinePay": 1,
+      "discount": 12,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp010",
+      "shopName": "quick fix",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Shimla",
+        "radius": 1,
+        "address": "Shimla Himanchal Pradesh"
+      },
+      "rating": 4.5,
+      "onlinePay": 1,
+      "discount": 20,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp011",
+      "shopName": "Every Solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Shimla",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.9,
+      "onlinePay": 1,
+      "discount": 30,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp012",
+      "shopName": "Every Solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Shimla",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.1,
+      "onlinePay": 1,
+      "discount": 10,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp012",
+      "shopName": "Every Solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Shimla",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.6,
+      "onlinePay": 1,
+      "discount": 18,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp012",
+      "shopName": "Quick Solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Shimla",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.6,
+      "onlinePay": 1,
+      "discount": 18,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp013",
+      "shopName": "Every Solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Ponta",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 3.9,
+      "onlinePay": 1,
+      "discount": 15,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp013",
+      "shopName": "Every Solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Ponta",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 3.7,
+      "onlinePay": 1,
+      "discount": 20,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp013",
+      "shopName": "Every Solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Ponta",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.3,
+      "onlinePay": 1,
+      "discount": 15,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    },
+    {
+      "id":"sp014",
+      "shopName": "Every Solution",
+      "image":"https://i.pinimg.com/originals/8b/cd/33/8bcd3319baddc32ec5faceb119aa843a.jpg",
+      "location": {
+        "city": "Ponta",
+        "radius": 1,
+        "address": "20 bigha, Idpl"
+      },
+      "rating": 4.5,
+      "onlinePay": 1,
+      "discount": 20,
+      "service": [
+        {
+          "name": "puncher",
+          "tw": 100,
+          "fw": 100
+        },
+        {
+          "name": "airPressure",
+          "tw": 10,
+          "fw": 15
+        }
+      ]
+    }
+  ]
+}

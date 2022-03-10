@@ -1,0 +1,13 @@
+.navbar{
+    display:"flex";
+    justify-content: space-around;
+    background-color: burlywood;
+    padding: 10px 15px;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+Link{
+    color: red;
+}

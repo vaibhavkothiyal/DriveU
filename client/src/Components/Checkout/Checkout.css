@@ -1,0 +1,22 @@
+.payNow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.success{
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.payNowChild{
+    border: 1px solid rgb(47, 117, 6);
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 6px;
+}
+.payNowBtn{
+    background-color: rgb(77, 133, 114);
+    color: white;
+    border-radius: 5px;
+}

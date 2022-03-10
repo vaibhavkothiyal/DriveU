@@ -1,0 +1,125 @@
+div{
+    /* border:1px solid red */
+}
+.topLoogo{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.s-p-left{
+    width: 100%;
+    height: 200px;
+    border-radius: 8px;
+}
+.shopParent{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    margin: 0 20px;
+}
+.filter-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 20px;
+    padding: 0 20px;
+    background-color: rgb(71, 71, 68);
+    padding: 15px;
+}
+.filter-parent{
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 8px;
+}
+.discount{
+    border-radius: 50%;
+    background-color: blue;
+    color: yellow;
+    padding: 4px;
+}
+.dropDownHover{
+    cursor: pointer;
+}
+.dropDownHover:hover{
+    background-color: rgb(243, 240, 240);
+}
+
+.infoSection{
+    align-self: center;
+}
+.logoSection{
+    align-self: center;
+}
+.info1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    font-weight: 700;
+}
+.info1, .info2{
+    text-align: center;
+}
+.info2{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: rgb(47, 61, 61);
+}
+.topLogoParent{
+    margin-bottom: 50px;
+}
+body{
+    background-color: rgb(203, 221, 215);
+}
+.pordInfoParent{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.pordInfo{
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(55, 36, 100);
+    font-weight: 600;
+}
+.avalLocParent{
+    position: relative;
+    background-color: rgb(171, 182, 178);
+    margin-bottom: 20px;
+}
+.searchBtn{
+    background-color: rgb(226, 76, 17);
+    border-radius: 8px;
+    padding: 6px 25px;
+    color: white;
+}
+.noResult{
+    margin-right: 20px;
+    font-size: 22px;
+    color: rgb(187, 8, 8);
+    font-weight: 600;
+}
+.p-i-1{
+    color: rgb(88, 16, 156);
+}
+.p-i-3{
+    color: rgb(1, 66, 1)
+}
+.applyFilter{
+    padding: 5px 10px;
+    border-radius: 4px;
+    background-color: rgb(11, 223, 149);
+}
+
+@media only screen and (max-width: 900px) {
+    .shopParent{
+        grid-template-columns: repeat(3,1fr);
+        gap: 10px;
+    }
+  }
+
+@media only screen and (max-width: 600px) {
+    .shopParent{
+        grid-template-columns: repeat(2,1fr);
+        gap: 10px;
+    }
+  }

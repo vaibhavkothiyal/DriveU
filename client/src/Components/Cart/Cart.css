@@ -1,0 +1,21 @@
+.cartDetailParent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 40px;
+}
+.coupon{
+    background-color: rgb(21, 197, 21);
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.checkoutBtn{
+    background-color: aqua;
+    border-radius: 4px;
+}
+.remove{
+    background-color: rgb(160, 66, 66);
+    border-radius: 4px;
+}
